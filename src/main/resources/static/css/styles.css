@@ -17,10 +17,34 @@ h1 {
         text-align: center;
         background-color: white;
 }
+h3{
+text-align: center
+}
 
 table {
     margin: auto;
             width: 50%;
             padding: 10px;
             text-align: center;
+}
+
+.squareGrey{
+height: 50px;
+width: 50px;
+background-color: #555;
+}
+.squareRed{
+height: 50px;
+width: 50px;
+background-color: red;
+}
+.squareGreen{
+height: 50px;
+width: 50px;
+background-color: green;
+}
+.squarePurple{
+height: 50px;
+width: 50px;
+background-color: purple;
 }
